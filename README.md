@@ -1,2 +1,2 @@
 # browser_extension
-learning how to build firefox extensions/addons
+a simple browser extension/addon that adds a magenta border to all websites.
